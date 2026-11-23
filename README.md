@@ -2,7 +2,7 @@
 
 <h1 align="center">Apple Maps for Android</h1>
 
-<p align="center">maps.apple.com, Android app edition.</p>
+<p align="center">maps.apple.com, app edition.</p>
 
 ## Features
 
